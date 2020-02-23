@@ -17,8 +17,25 @@
 background: linear-gradient(0deg, rgba(193,8,68,1) 0%, rgba(6,186,208,1) 100%);
 }
 
+.button {
+    color: black
+}
 
 .colorhover:hover {
-    background-color:background: rgb(193,8,68);
-    background: linear-gradient(0deg, rgba(193,8,68,1) 0%, rgba(6,186,208,1) 100%); rgb(0, 217, 255);
+    background: rgb(193,8,68);
+background: linear-gradient(0deg, rgba(193,8,68,1) 0%, rgba(6,186,208,1) 100%);
+color: white;
+}
+
+.hoverpink:hover {
+    background: rgb(251,63,184);
+background: radial-gradient(circle, rgba(251,63,184,1) 0%, rgba(6,138,164,1) 100%);
+    color: white
+}
+.buttondeux {
+    color: white
+}
+
+.colorbarremenu{
+    background-color: #068aa4;
 }
