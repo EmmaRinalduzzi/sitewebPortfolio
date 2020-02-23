@@ -17,6 +17,8 @@
 background: linear-gradient(0deg, rgba(193,8,68,1) 0%, rgba(6,186,208,1) 100%);
 }
 
-a:hover {
-    background-color: rgb(0, 217, 255)155, 155, 153);
-  }
+
+.colorhover:hover {
+    background-color:background: rgb(193,8,68);
+    background: linear-gradient(0deg, rgba(193,8,68,1) 0%, rgba(6,186,208,1) 100%); rgb(0, 217, 255);
+}
