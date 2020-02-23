@@ -1,0 +1,10 @@
+.BackgroundMail {
+    background-image: linear-gradient(to right, #52719f, #4462a6, #454fa8, #5436a4, #690098);
+    color:aliceblue;
+    text-align:center;
+}
+.BackgroundError {
+    background-image: linear-gradient(to right, #4a0083, #7e0069, #9b0049, #a80029, #a60000);
+    color: aliceblue;
+    text-align: center;
+}
