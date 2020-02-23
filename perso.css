@@ -4,7 +4,19 @@
     text-align:center;
 }
 .BackgroundError {
-    background-image: linear-gradient(to right, #4a0083, #7e0069, #9b0049, #a80029, #a60000);
-    color: aliceblue;
+    background: rgb(217,66,130);
+    background: linear-gradient(90deg, rgba(217,66,130,1) 0%, rgba(189,2,184,1) 49%, rgba(1,156,187,1) 100%);
     text-align: center;
 }
+
+.colorbackground{
+    background-color: rgb(255, 255, 255);
+}
+.coloraboutme{
+    background: rgb(193,8,68);
+background: linear-gradient(0deg, rgba(193,8,68,1) 0%, rgba(6,186,208,1) 100%);
+}
+
+a:hover {
+    background-color: rgb(0, 217, 255)155, 155, 153);
+  }
