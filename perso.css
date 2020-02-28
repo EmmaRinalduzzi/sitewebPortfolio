@@ -39,7 +39,3 @@ background: radial-gradient(circle, rgba(251,63,184,1) 0%, rgba(6,138,164,1) 100
 .colorbarremenu{
     background-color: #068aa4;
 }
-
-.rotation {
-    transform: rotate(90deg);
-  }
