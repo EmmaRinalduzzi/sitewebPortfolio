@@ -29,7 +29,7 @@ color: white;
 
 .hoverpink:hover {
     background: rgb(251,63,184);
-background: radial-gradient(circle, rgba(251,63,184,1) 0%, rgba(6,138,164,1) 100%);
+
     color: white
 }
 .buttondeux {
